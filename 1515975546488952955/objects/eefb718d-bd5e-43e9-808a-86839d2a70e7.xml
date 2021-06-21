@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <parentCode />
+  <folderPosition>0</folderPosition>
+  <name>list</name>
+  <date>14/06/2021 23:15:16</date>
+  <code>eefb718d-bd5e-43e9-808a-86839d2a70e7</code>
+  <legend-item>None</legend-item>
+  <field>
+    <code>8e97a7b9-5830-458d-8019-8b6484787dba</code>
+    <name>Name</name>
+    <type>text</type>
+    <style>InputText</style>
+  </field>
+  <field>
+    <code>5085ecee-ea0f-41cd-a3d1-6c3395d5991b</code>
+    <name>Price</name>
+    <type>text</type>
+    <style>InputText</style>
+  </field>
+  <listInstances>
+    <instance>
+      <instanceAttValue>
+        <field>Name</field>
+        <value>Lorem ipsum</value>
+      </instanceAttValue>
+      <instanceAttValue>
+        <field>Price</field>
+        <value>150,00</value>
+      </instanceAttValue>
+    </instance>
+    <instance>
+      <instanceAttValue>
+        <field>Name</field>
+        <value>Lorem ipsum</value>
+      </instanceAttValue>
+      <instanceAttValue>
+        <field>Price</field>
+        <value>250,00</value>
+      </instanceAttValue>
+    </instance>
+    <instance>
+      <instanceAttValue>
+        <field>Name</field>
+        <value>Lorem ipsum</value>
+      </instanceAttValue>
+      <instanceAttValue>
+        <field>Price</field>
+        <value>170,00</value>
+      </instanceAttValue>
+    </instance>
+  </listInstances>
+</object>

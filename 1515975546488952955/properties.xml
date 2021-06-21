@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+  <prototypeID>7a50e539-90af-418a-8ba7-f4b3e82ed24d</prototypeID>
+  <cloudID>54629180</cloudID>
+  <accountCloudID>43658581</accountCloudID>
+  <cloudURL>https://cloud.justinmind.com/usernote/prototypes/43658581/54629178/54629180/index.html</cloudURL>
+  <version>9.4.0.20210525</version>
+  <prototypeDevice>web_1280</prototypeDevice>
+  <canvasSize w="1280.0" h="800.0" />
+  <canvasOrientation>PORTRAIT</canvasOrientation>
+  <defaultTemplateCode>f39803f7-df02-4169-93eb-7547fb8c961a</defaultTemplateCode>
+  <homeScreenCode>c4e08afc-2a15-4dbc-a7ab-0a2b2caa4ea3</homeScreenCode>
+  <globalLightDirection>0.0</globalLightDirection>
+</properties>

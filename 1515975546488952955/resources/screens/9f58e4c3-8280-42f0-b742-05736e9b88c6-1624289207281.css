@@ -1,0 +1,25 @@
+#s-9f58e4c3-8280-42f0-b742-05736e9b88c6 > #backgroundBox {
+position: absolute;
+}
+
+#s-9f58e4c3-8280-42f0-b742-05736e9b88c6 > #alignmentBox {
+position: relative;
+}
+
+.devMobile #jim-container .ui-page {
+overflow-x: hidden;
+}
+
+.non_jim_mobile #simulation {
+overflow-x: hidden;
+}
+
+.web #simulation {
+overflow-x: hidden;
+}
+
+#s-9f58e4c3-8280-42f0-b742-05736e9b88c6 > #loadMark {
+width: 1px;
+visibility: hidden;
+display: none;
+}

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>2</folderPosition>
+  <name>Tasks</name>
+  <code>a9ef09e4-1e4a-4b22-95ad-778c2a7cfcdb</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>19/06/2021 16:44:05</date>
+  <note />
+  <legend-item>None</legend-item>
+  <pageAlignment>LEFT</pageAlignment>
+  <device>web_1280</device>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>VERTICAL</backgroundGrowth>
+  <width>1280.0</width>
+  <height>800.0</height>
+  <guides />
+  <item-group id="4dec0057-711c-4bea-b5aa-15284799169a" visible="true">
+    <rich-text id="6f76f11e-197d-4c73-9302-2b2cfbd12f25" hidden="false" onTop="false" visible="true">
+      <text>Tareas</text>
+      <style name="LnFRichText">
+        <DimensionStyle widthType="px" heightType="px" width="99.59375" height="36.0" lockWidth="true" lockHeight="true" autofit="true" />
+        <PositioningStyle left="590.203125" top="16.99999999999998" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TextStyle color="51r51g51b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" />
+        <FontStyle size="24.0" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="6">
+          <style name="LnFTextRange">
+            <FontStyle size="24.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Text</info>
+      <userID>Paragraph</userID>
+      <modelID>Paragraph_1</modelID>
+    </rich-text>
+    <rich-text id="df1addc8-c02b-4046-ab20-e531f5579608" hidden="false" onTop="false" visible="true">
+      <text>Realizar documentación del proceso de deploy</text>
+      <style name="LnFRichText">
+        <DimensionStyle widthType="px" heightType="px" width="332.6484375" height="18.0" lockWidth="true" lockHeight="true" autofit="true" />
+        <PositioningStyle left="126.0" top="155.00000000000006" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TextStyle color="51r51g51b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" />
+        <FontStyle size="12.0" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="44">
+          <style name="LnFTextRange">
+            <FontStyle size="12.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Text</info>
+      <userID>Paragraph</userID>
+      <modelID>Paragraph_2</modelID>
+    </rich-text>
+    <button id="1f51c72f-2607-48ca-9d8a-1d937e95cfb4" hidden="false" onTop="false" visible="true">
+      <text>En proceso</text>
+      <style name="LnFButton">
+        <DimensionStyle widthType="px" heightType="px" width="103.0" height="30.0" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="595.0" top="149.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="254r153g16b0a" disabledColor="false" />
+        <BorderStyle topRadius="5" rightRadius="5" bottomRadius="5" leftRadius="5" leftColor="205r205g205b0a" topColor="205r205g205b0a" rightColor="205r205g205b0a" bottomColor="205r205g205b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TextStyle color="255r255g255b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="10.0" height="0">
+          <family>Arial</family>
+          <style name="Bold" weight="700" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="10">
+          <style name="LnFTextRange">
+            <FontStyle size="10.0" height="0">
+              <family>Arial</family>
+              <style name="Bold" weight="700" italic="normal" />
+            </FontStyle>
+            <TextStyle color="255r255g255b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Button</info>
+      <userID>Button</userID>
+      <modelID>Button_1</modelID>
+    </button>
+    <button id="1f628143-2aea-4a3c-b60a-423c61964571" hidden="false" onTop="false" visible="true">
+      <text>Terminada</text>
+      <style name="LnFButton">
+        <DimensionStyle widthType="px" heightType="px" width="103.0" height="30.0" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="595.0" top="189.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="90r189g43b0a" disabledColor="false" />
+        <BorderStyle topRadius="5" rightRadius="5" bottomRadius="5" leftRadius="5" leftColor="205r205g205b0a" topColor="205r205g205b0a" rightColor="205r205g205b0a" bottomColor="205r205g205b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TextStyle color="255r255g255b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="10.0" height="0">
+          <family>Arial</family>
+          <style name="Bold" weight="700" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="9">
+          <style name="LnFTextRange">
+            <FontStyle size="10.0" height="0">
+              <family>Arial</family>
+              <style name="Bold" weight="700" italic="normal" />
+            </FontStyle>
+            <TextStyle color="255r255g255b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Button</info>
+      <userID>Button</userID>
+      <modelID>Button_2</modelID>
+    </button>
+    <button id="256b9854-93c8-48e4-b509-5c12d580c092" hidden="false" onTop="false" visible="true">
+      <text>Sin empezar</text>
+      <style name="LnFButton">
+        <DimensionStyle widthType="px" heightType="px" width="103.0" height="30.0" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="595.0" top="228.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="227r18g18b0a" disabledColor="false" />
+        <BorderStyle topRadius="5" rightRadius="5" bottomRadius="5" leftRadius="5" leftColor="205r205g205b0a" topColor="205r205g205b0a" rightColor="205r205g205b0a" bottomColor="205r205g205b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TextStyle color="255r255g255b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="10.0" height="0">
+          <family>Arial</family>
+          <style name="Bold" weight="700" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="11">
+          <style name="LnFTextRange">
+            <FontStyle size="10.0" height="0">
+              <family>Arial</family>
+              <style name="Bold" weight="700" italic="normal" />
+            </FontStyle>
+            <TextStyle color="255r255g255b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Button</info>
+      <userID>Button</userID>
+      <modelID>Button_3</modelID>
+    </button>
+    <rich-text id="ecfd5519-fcc0-4353-9bc1-63ef29dfc8df" hidden="false" onTop="false" visible="true">
+      <text>Realizar documentación del caso de uso &amp;quot;crear usuario&amp;quot;</text>
+      <style name="LnFRichText">
+        <DimensionStyle widthType="px" heightType="px" width="397.3515625" height="18.0" lockWidth="true" lockHeight="true" autofit="true" />
+        <PositioningStyle left="126.0" top="194.00000000000006" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TextStyle color="51r51g51b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" />
+        <FontStyle size="12.0" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="54">
+          <style name="LnFTextRange">
+            <FontStyle size="12.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Text</info>
+      <userID>Paragraph</userID>
+      <modelID>Paragraph_3</modelID>
+    </rich-text>
+    <rich-text id="ed3e8a64-d6b0-4965-9d63-6392efd85a5e" hidden="false" onTop="false" visible="true">
+      <text>Crear manual de usuario</text>
+      <style name="LnFRichText">
+        <DimensionStyle widthType="px" heightType="px" width="176.09375" height="18.0" lockWidth="true" lockHeight="true" autofit="true" />
+        <PositioningStyle left="125.0" top="232.00000000000006" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TextStyle color="51r51g51b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" />
+        <FontStyle size="12.0" height="0">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="23">
+          <style name="LnFTextRange">
+            <FontStyle size="12.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Text</info>
+      <userID>Paragraph</userID>
+      <modelID>Paragraph_4</modelID>
+    </rich-text>
+    <rich-text id="e017e379-a4e8-47c0-8444-0a776ef4688b" hidden="false" onTop="false" visible="true">
+      <text>100pts</text>
+      <style name="LnFRichText">
+        <DimensionStyle widthType="px" heightType="px" width="59.144535064697266" height="21.0" lockWidth="true" lockHeight="true" autofit="true" />
+        <PositioningStyle left="810.0" top="153.49999999999997" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TextStyle color="45r138g28b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" />
+        <FontStyle size="14.0" height="0">
+          <family>Arial</family>
+          <style name="Bold" weight="700" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="6">
+          <style name="LnFTextRange">
+            <FontStyle size="14.0" height="0">
+              <family>Arial</family>
+              <style name="Bold" weight="700" italic="normal" />
+            </FontStyle>
+            <TextStyle color="45r138g28b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Text</info>
+      <userID>Paragraph</userID>
+      <modelID>Paragraph_5</modelID>
+    </rich-text>
+    <rich-text id="37ad7102-8d2b-4275-8057-d1b52632164c" hidden="false" onTop="false" visible="true">
+      <text>200pts</text>
+      <style name="LnFRichText">
+        <DimensionStyle widthType="px" heightType="px" width="59.144535064697266" height="21.0" lockWidth="true" lockHeight="true" autofit="true" />
+        <PositioningStyle left="810.0000000000001" top="193.49999999999997" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TextStyle color="45r138g28b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" />
+        <FontStyle size="14.0" height="0">
+          <family>Arial</family>
+          <style name="Bold" weight="700" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="6">
+          <style name="LnFTextRange">
+            <FontStyle size="14.0" height="0">
+              <family>Arial</family>
+              <style name="Bold" weight="700" italic="normal" />
+            </FontStyle>
+            <TextStyle color="45r138g28b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Text</info>
+      <userID>Paragraph</userID>
+      <modelID>Paragraph_6</modelID>
+    </rich-text>
+    <rich-text id="b4812e04-aeda-4c40-af55-8a20efe257e6" hidden="false" onTop="false" visible="true">
+      <text>0pts</text>
+      <style name="LnFRichText">
+        <DimensionStyle widthType="px" heightType="px" width="38.38151168823242" height="21.0" lockWidth="true" lockHeight="true" autofit="true" />
+        <PositioningStyle left="810.0000000000002" top="232.5" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TextStyle color="176r47g18b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" />
+        <FontStyle size="14.0" height="0">
+          <family>Arial</family>
+          <style name="Bold" weight="700" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="4">
+          <style name="LnFTextRange">
+            <FontStyle size="14.0" height="0">
+              <family>Arial</family>
+              <style name="Bold" weight="700" italic="normal" />
+            </FontStyle>
+            <TextStyle color="176r47g18b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Text</info>
+      <userID>Paragraph</userID>
+      <modelID>Paragraph_7</modelID>
+    </rich-text>
+    <image id="d1391eca-1458-4c04-b3ba-eae4f8f45c55" hidden="false" onTop="false" visible="true">
+      <image-name>b961a49b-02d1-4b25-8589-ce3880cc0122.png</image-name>
+      <original-name>JP_Clipboard_Image.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle widthType="px" heightType="px" width="133.0" height="126.00000000000011" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="973.0" top="141.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" disabled="true" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0.0" />
+        <ShadowStyle>
+          <Box enable="false" />
+        </ShadowStyle>
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+        <MarginStyle top="0" left="0" bottom="0" right="0" />
+      </style>
+      <image-flip horizontal="false" vertical="false" />
+      <userID>Image 1</userID>
+      <modelID>Image_1</modelID>
+    </image>
+    <style name="LnFCanvas">
+      <DimensionStyle widthType="px" heightType="px" width="1280.0" height="800.0" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+    </style>
+  </item-group>
+  <Events />
+</screen>
